@@ -17,4 +17,5 @@ function gitTest(){
 	var cat2 = new newCat("红");
 	console.log(cat1.color + "猫" + cat1.jump(10) + cat1.skill('"龟派气功"'));
 	console.log(cat2.color + "猫" + cat2.jump(15) + cat2.skill('"小李飞镖"'));
+
 }
